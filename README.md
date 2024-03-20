@@ -1,4 +1,4 @@
-💡 Hobby: **Writing plugins for [PocketMine-MP](https://github.com/pmmp/PocketMine-MP)**
+💡 Hobby: **Writing plugins for [PocketMine-MP](https://github.com/pmmp/PocketMine-MP)**, **do design**
 
 ♥️ Favorite lang: **[Python 🐍](https://www.python.org/)**
 
