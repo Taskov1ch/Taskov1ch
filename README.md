@@ -8,3 +8,5 @@ ___
 <a href="https://mynickname.com/id1806680">
   <img src="https://mynickname.com/forumt4/Taskovich.gif">
 </a>
+
+<a href="https://mynickname.com/id1806680"><img src="https://mynickname.com/img.php?id=1806680&sert=1" alt="Сертификат на никнейм Taskovich, зарегистрирован на https://vk.com/tynaev_vk" border="0" /></a><br />
