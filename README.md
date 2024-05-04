@@ -6,9 +6,11 @@
 ___
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taskov1ch&layout=donut-vertical">
+  <br>
+  <a href="https://mynickname.com/id1806680">
+    <img src="https://mynickname.com/forumt4/Taskovich.gif">
+  </a>
+  <br>
+  <a href="https://mynickname.com/id1806680"><img src="https://mynickname.com/img.php?id=1806680&sert=1" alt="Certificate for nickname Taskovich, is registered to: https://vk.com/tynaev_vk" border="0" /></a>
 </div>
-<a href="https://mynickname.com/id1806680">
-  <img src="https://mynickname.com/forumt4/Taskovich.gif">
-</a>
 
-<a href="https://mynickname.com/id1806680"><img src="https://mynickname.com/img.php?id=1806680&sert=1" alt="Certificate for nickname Taskovich, is registered to: https://vk.com/tynaev_vk" border="0" /></a><br />
