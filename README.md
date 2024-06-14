@@ -11,6 +11,7 @@ ___
     <img src="https://mynickname.com/forumt4/Taskovich.gif">
   </a>
   <br>
-  <a href="https://mynickname.com/id1806680"><img src="https://mynickname.com/img.php?id=1806680&sert=1" alt="Certificate for nickname Taskovich, is registered to: https://vk.com/tynaev_vk" border="0" /></a>
+
+<a href="https://mynickname.com/Taskovich"><img src="https://mynickname.com/img.php?id=1806680&sert=1" alt="Certificate for nickname Taskovich, is registered to: Askhat Tynaev" border="0" /></a>
 </div>
 
