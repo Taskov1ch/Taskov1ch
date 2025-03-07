@@ -1,17 +1,41 @@
-💡 Hobby: **Writing plugins for [PocketMine-MP](https://github.com/pmmp/PocketMine-MP)**, **do design**
+### Hi! I'm [Askhat Taskovich](https://mynickname.com/Taskov1ch) ✨
 
-♥️ Favorite lang: **[Python 🐍](https://www.python.org/)**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Junior+Python+Developer;PocketMine-MP+Plugin+Developer;Anime+fan+(5+years);Experienced+MLBB+player+(5+years))](https://git.io/typing-svg)
 
-🌐 Languages spoken: **[KGZ](https://en.wikipedia.org/wiki/Kyrgyz_language) *[(ru)](https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%80%D0%B3%D0%B8%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA)***, **[RUS](https://en.m.wikipedia.org/wiki/Russian_language) *[(ru)](https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA)***
-___
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taskov1ch&layout=donut-vertical">
-  <br>
-  <a href="https://mynickname.com/id1815468">
-    <img src="https://mynickname.com/forumt4/Tasvov1ch.gif">
-  </a>
-  <br>
+---
 
-<a href="https://mynickname.com/id1815468"><img src="https://mynickname.com/img.php?id=1815468&sert=1" alt="Certificate for nickname Taskov1ch, is registered to: Askhat Tynaev" border="0" /></a>
+### 🔧 Tools & Technologies:
+
+<div>
+	<a href="https://www.python.org/" target="_blank"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></a>
+	<a href="https://git-scm.com/" target="_blank"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></a>
+	<a href="https://www.sqlite.org/" target="_blank"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" title="SQLite"/></a>
+	<a href="https://www.gnu.org/software/bash/" target="_blank"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="Bash" title="Bash"/></a>
+  <a href="https://pmmp.io/"><img width="50" src="https://avatars.githubusercontent.com/u/22548559"></a>
 </div>
 
+---
+
+### 🌟 GitHub Stats:
+
+![Taskov1ch's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taskov1ch&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taskov1ch&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Taskov1ch&theme=radical)
+
+---
+
+### 📡 Contact Me:
+
+- Telegram: [@taskov1ch](https://t.me/taskov1ch)
+- VK: [@taskov1ch](https://vk.com/taskov1ch)
+- Other links: [\*click\*](https://taskovich.pro/links/)
+
+---
+
+### 🏷 My Nickname:
+
+<a href="https://mynickname.com/taskov1ch"><img src="https://mynickname.com/img.php?id=1815468&sert=1" alt="Certificate for nickname Taskov1ch, registered to: Tynaev Taskovich" border="0" /></a>
+
+<a href="https://mynickname.com/taskov1ch"><img src="https://mynickname.com/img.php?nick=Taskov1ch&sert=2&text=t4" alt="Nickname Taskov1ch is registered!" border="0" /></a>
