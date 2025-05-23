@@ -30,7 +30,7 @@
 
 - Telegram: [@taskov1ch](https://t.me/taskov1ch)
 - VK: [@taskov1ch](https://vk.com/taskov1ch)
-- Other links: [\*click\*](https://taskov1ch.github.io?slide=links)
+- Other links: [\*click\*](https://taskov1ch.github.io?slide=links&lang=en)
 
 ---
 
