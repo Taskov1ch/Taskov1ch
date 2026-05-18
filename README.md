@@ -1,6 +1,6 @@
 ### Hi! I'm [Askhat Taskovich](https://mynickname.com/Taskov1ch) ✨
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Junior+Python+Developer;PocketMine-MP+Plugin+Developer;Anime+fan+(5+years);Experienced+MLBB+player+(5+years))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Junior+Python+Developer;PocketMine-MP+Plugin+Developer)](https://git.io/typing-svg)
 
 ---
 
