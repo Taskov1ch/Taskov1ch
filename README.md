@@ -1,41 +1,114 @@
-### Hi! I'm [Askhat Taskovich](https://mynickname.com/Taskov1ch) ✨
+# Askhat / Taskov1ch
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Junior+Python+Developer;PocketMine-MP+Plugin+Developer)](https://git.io/typing-svg)
+**Python developer focused on CLI tools, automation, backend-oriented systems, and developer tooling.**
 
----
+I build practical software with Python, Docker, Linux, and Git-based workflows. I care about reproducibility, clear interfaces, validation, testing, and software that can actually be installed, automated, and maintained.
 
-### 🔧 Tools & Technologies:
+Currently open to **freelance and part-time remote work**, especially Python automation, bots and integrations, CLI utilities, data-processing tools, and backend tasks.
 
-<div>
-	<a href="https://www.python.org/" target="_blank"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></a>
-	<a href="https://git-scm.com/" target="_blank"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></a>
-	<a href="https://www.sqlite.org/" target="_blank"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" title="SQLite"/></a>
-	<a href="https://www.gnu.org/software/bash/" target="_blank"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="Bash" title="Bash"/></a>
-  <a href="https://pmmp.io/"><img width="50" src="https://avatars.githubusercontent.com/u/22548559"></a>
-</div>
+[Portfolio](https://taskov1ch.xyz) · [Projects @ task-v1](https://github.com/task-v1) · [Telegram](https://t.me/taskov1ch)
 
 ---
 
-### 🌟 GitHub Stats:
+## Tech stack
 
-![Taskov1ch's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taskov1ch&show_icons=true&theme=radical)
+**Primary**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taskov1ch&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+`Python` · `Docker` · `Linux` · `Bash` · `Git` · `GitHub Actions` · `SQLite`
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Taskov1ch&theme=radical)
+**Python tooling**
 
----
+`pytest` · `mypy` · `Ruff` · `uv` · `httpx`
 
-### 📡 Contact Me:
+**Other experience**
 
-- Telegram: [@taskov1ch](https://t.me/taskov1ch)
-- VK: [@taskov1ch](https://vk.com/taskov1ch)
-- Other links: [\*click\*](https://taskov1ch.github.io?slide=links&lang=en)
+`TypeScript` · `React` · `Java` · `HTTP/REST APIs` · `CI/CD`
 
 ---
 
-### 🏷 My Nickname:
+## Featured projects
 
-<a href="https://mynickname.com/taskov1ch"><img src="https://mynickname.com/img.php?id=1815468&sert=1" alt="Certificate for nickname Taskov1ch, registered to: Tynaev Taskovich" border="0" /></a>
+### [Luminesk CLI](https://github.com/task-v1/luminesk-cli)
 
-<a href="https://mynickname.com/taskov1ch"><img src="https://mynickname.com/img.php?nick=Taskov1ch&sert=2&text=t4" alt="Nickname Taskov1ch is registered!" border="0" /></a>
+A reproducible, Docker-first CLI for installing and operating Minecraft Java and Bedrock server instances.
+
+Built around declarative recipes, exact artifact identities, reviewable plans, transactional updates, recovery, and predictable automation.
+
+**Highlights**
+
+* cross-platform Python CLI;
+* Docker-based runtime management;
+* reproducible recipe and lockfile workflow;
+* dry-run and non-interactive automation modes;
+* transactional updates and recovery;
+* artifact hash and image identity verification;
+* interactive terminal interface;
+* automated testing, linting, and static type checking;
+* published through PyPI and standalone releases.
+
+**Stack:** Python · Docker · HTTP · pytest · mypy · Ruff · GitHub Actions
+
+[Repository](https://github.com/task-v1/luminesk-cli) · [Documentation](https://luminesk.taskov1ch.xyz)
+
+---
+
+### [Luminesk Database](https://github.com/task-v1/luminesk-database)
+
+The Git-backed recipe catalog used by Luminesk.
+
+It validates server recipes and templates, generates deterministic catalog snapshots, enforces compatibility rules, and publishes catalog updates through CI.
+
+**Stack:** Python · TOML · GitHub Actions · CI/CD · Validation · Testing
+
+[Repository](https://github.com/task-v1/luminesk-database)
+
+---
+
+### [Taskov1ch Portfolio](https://github.com/Taskov1ch/taskov1ch.github.io)
+
+My personal developer portfolio with a terminal-inspired interface.
+
+It includes responsive layouts, localization, GitHub integration, live project README loading, animations, and GitHub Pages deployment.
+
+**Stack:** React · TypeScript · Vite · Tailwind CSS · i18next
+
+[Website](https://taskov1ch.xyz) · [Repository](https://github.com/Taskov1ch/taskov1ch.github.io)
+
+---
+
+### [AstraAuction](https://github.com/task-v1/AstraAuction)
+
+A player-to-player marketplace plugin with persistent storage, asynchronous database operations, item-state preservation, search, sorting, localization, and offline claim handling.
+
+**Stack:** Java · SQLite · MySQL · Gradle
+
+[Repository](https://github.com/task-v1/AstraAuction)
+
+---
+
+## Earlier work
+
+Before my current projects, I worked extensively with game-server plugins, RCON integrations, and chat bots for platforms such as Telegram, Discord, and VK.
+
+Those older repositories are intentionally kept archived: they are part of my development history, while the projects above represent the code and engineering practices I currently focus on.
+
+---
+
+## What I'm interested in
+
+I'm particularly interested in work involving:
+
+* Python automation and scripting;
+* backend services and API integrations;
+* CLI and developer tools;
+* Telegram/chat bots;
+* Docker and Linux tooling;
+* data processing and workflow automation.
+
+---
+
+## Contact
+
+The easiest way to reach me is through [Telegram](https://t.me/taskov1ch).
+
+You can also find my projects, links, and additional information at [taskov1ch.xyz](https://taskov1ch.xyz).
